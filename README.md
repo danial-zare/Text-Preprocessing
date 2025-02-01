@@ -1,4 +1,5 @@
 This program performs text preprocessing on a given text. Specifically, it takes a **TXT file** as input from the user and applies the following **text preprocessing** steps:
+
     1. **Lowercasing**: Converts text to lowercase for consistency.  
     2. **Removing Punctuation**: Eliminates punctuation marks that do not carry significant meaning.  
     3. **Removing Special Characters**: Removes symbols like @, #, &, etc.  
